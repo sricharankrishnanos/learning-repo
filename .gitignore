@@ -1,0 +1,4 @@
+#These files should be ignored by git
+
+*.lie
+*.nor
