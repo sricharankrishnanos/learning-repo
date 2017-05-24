@@ -1,5 +1,7 @@
 This is the first file that is being pushed
 
+CAPITAL LETTERS 123 MIC TESTING MIC TESTING!!!
+
 This is bug fix number ISSUE456
 
 This is just some other line that is being inserted.
