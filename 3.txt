@@ -9,3 +9,6 @@ This is some other client side fix for 3.txt
 This is server solution 1.
 This is server solution 2.
 This is server solution 3.
+
+New line is being added here.
+
