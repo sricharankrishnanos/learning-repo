@@ -15,3 +15,5 @@ This is line number 3.
 --------------------------------------------
 
 This is a new line that is being placed in this file.
+This is another new line that is being added to this file.
+---------------------------------------------------------
