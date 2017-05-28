@@ -10,3 +10,5 @@ This is line number 2.
 This is line number 3.
 
 Line to fix bug - Issue Number 123;
+----------------------------------------------------------------
+This is a new line that is being inserted in this file.
