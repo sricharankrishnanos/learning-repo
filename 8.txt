@@ -1,2 +1,5 @@
 This is line number 1.
+
+This line is being inserted in between first line and second line.
+
 This is line number 2.
